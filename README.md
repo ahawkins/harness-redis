@@ -1,12 +1,12 @@
-# Harness::Varnish
+# Harness::Redis
 
-TODO: Write a gem description
+Instrument all redis calls and log them with Harness
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'harness-varnish'
+    gem 'harness-redis'
 
 And then execute:
 
@@ -14,11 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install harness-varnish
-
-## Usage
-
-TODO: Write usage instructions here
+    $ gem install harness-redis
 
 ## Contributing
 

@@ -1,5 +1,5 @@
 require 'bundler/setup'
-require 'harness/redis'
+require 'harness-redis'
 require 'minitest/unit'
 require 'minitest/autorun'
 

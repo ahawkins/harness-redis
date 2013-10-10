@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Harness::Redis::VERSION
   spec.authors       = ["ahawkins"]
   spec.email         = ["adam@hawkins.io"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Log redis performance to Harness}
+  spec.summary       = %q{}
+  spec.homepage      = "https://github.com/ahawkins/harness-redis"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
